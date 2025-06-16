@@ -65,7 +65,7 @@ function loadProducts() {
             <div class="product-info">
                 <h3>${product.name}</h3>
                 <p>${product.description}</p>
-                <p class="product-price">$${product.price.toFixed(2)}</p>
+                <p class="product-price">pkr${product.price.toFixed(2)}</p>
                 <button onclick="addToCart(${product.id})" class="btn-primary">
                     Add to Cart
                 </button>
