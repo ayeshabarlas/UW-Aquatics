@@ -3,42 +3,42 @@ const products = [
     {
         id: 1,
         name: "Premium Aquarium Tank",
-        price: 25,500,
+        price: 25500,
         image: "/1p.png",
         description: "60-gallon glass aquarium with LED lighting system"
     },
     {
         id: 2,
         name: "Tropical Fish Food",
-        price: 19,500,
+        price: 19500,
         image: "/2p.png",
         description: "High-quality nutrition for tropical fish"
     },
     {
         id: 3,
         name: "Water Filter System",
-        price: 9,500,
+        price: 9500,
         image: "/3p.png",
         description: "Advanced filtration for crystal clear water"
     },
     {
         id: 4,
         name: "LED Lighting Kit",
-        price: 7,500,
+        price: 7500,
         image: "/4p.png",
         description: "Full spectrum LED lights for plant growth"
     },
     {
         id: 5,
         name: "Decorative Coral Set",
-        price: 4,500,
+        price: 4500,
         image: "/5p.png",
         description: "Realistic artificial coral decorations"
     },
     {
         id: 6,
         name: "Water Testing Kit",
-        price: 3,500,
+        price: 3500,
         image: "/6p.png",
         description: "Professional grade water testing kit"
     }
